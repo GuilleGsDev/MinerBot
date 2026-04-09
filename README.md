@@ -535,7 +535,7 @@ Este proyecto es **UNLICENSED** (Privado). Uso solo con autorización explícita
 
 ## 👥 Autor
 
-**Guillermo González** - [GitHub Profile](https://github.com/GuilleGs)
+**Guillermo González** - [GitHub Profile](https://github.com/GuilleGsDev)
 
 
 ---
